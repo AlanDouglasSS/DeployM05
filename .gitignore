@@ -1,4 +1,4 @@
-node_modules,
-.gitignore,
-nota.md,
+node_modules
+.gitignore
+nota.md
 DS_store
